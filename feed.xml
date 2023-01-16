@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>对外汉语故事集</title>
-    <description>对外汉语故事集提供一个完全免费而开放的教育资源，旨在促进社区语言的识字和读写能力，并推广家庭、学校、社区为语言学习地点。这40篇译成各种不同语言的故事来自非洲故事书项目，按长度和词汇量分成五个阅读级别，并为每一个语言版本录制语音故事以增加阅读的乐趣。对外汉语故事集以中文为基础，还提供世界各地不同语言的版本，让对外汉语教学尽量多元化。
+    <title>中文故事集</title>
+    <description>中文故事集提供一个完全免费而开放的教育资源，旨在促进社区语言的识字和读写能力，并推广家庭、学校、社区为语言学习地点。这40篇译成各种不同语言的故事来自非洲故事书项目，按长度和词汇量分成五个阅读级别，并为每一个语言版本录制语音故事以增加阅读的乐趣。中文故事集以中文为基础，还提供世界各地不同语言的版本，让中文教学尽量多元化。
 </description>
-    <link>https://global-asp.github.io//storybooks-csl/</link>
-    <atom:link href="https://global-asp.github.io//storybooks-csl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Dec 2022 18:27:05 -0800</pubDate>
-    <lastBuildDate>Tue, 06 Dec 2022 18:27:05 -0800</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <link>https://global-asp.github.io//storybooks-chinese/</link>
+    <atom:link href="https://global-asp.github.io//storybooks-chinese/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Jan 2023 11:14:30 -0800</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2023 11:14:30 -0800</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
     
   </channel>
 </rss>
